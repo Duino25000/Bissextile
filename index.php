@@ -14,8 +14,8 @@
 
 	<div id="blocPrincipal">
 		<section id="tableMultiplication">
-			<h2>Les tables de miltiplication</h2>
-			<p>Entrez un chiffre et affichez sa table de multiplication jusqu'a 10.</p>
+			<h2>Les tables de multiplication</h2>
+			<p>Entrez un chiffre ou un nombre entier <br />et afficher sa table de multiplication jusqu'a 10.</p>
 			<label for="table" id="label_table"></label>
 			<input type="text" name="table" id="table" />
 			<div class="boutonVerif" onclick="checkTable()"><i class="fas fa-check"></i></div>
@@ -24,7 +24,7 @@
 
 		<section id="anneeBissextile">
 			<h2>Année bissextile</h2>
-			<p>Entrez une année et vérifiez si l'année est bissextile ou non.</p>
+			<p>Entrez une année et vérifiez si l'année est bissextille ou non.</p>
 			<label for="bissextile" id="label_bissextile"></label>
 			<input type="text" name="bissextile" id="bissextile" />
 			<div class="boutonVerif" onclick="checkAnnee()"><i class="fas fa-check"></i></div>

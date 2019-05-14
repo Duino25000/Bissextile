@@ -19,6 +19,7 @@ function getXMLHttpRequest() {
 	return xhr;
 }
 /*************************************************************/
+
 function checkTable(){
 	var chiffreSaisie = document.querySelector("#table").value;
 	var chgtTxtTable = document.querySelector("#txtTable");
